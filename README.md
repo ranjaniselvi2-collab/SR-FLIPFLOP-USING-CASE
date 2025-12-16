@@ -58,5 +58,6 @@ endmodule
 ![441069355-c8ff60bf-0b32-4a8e-a5dd-275902c0932a](https://github.com/user-attachments/assets/394e3249-00c7-40f4-8734-381a05f45fc5)
 **TIMING DIGRAMS FOR FLIP FLOPS**
 ![441069376-255df1fd-b977-4246-a7c6-5d47662cd1fb](https://github.com/user-attachments/assets/38bbcdf4-3ed4-425a-a4e6-39d377152b67)
-**RESULTS**
+**RESULTS** 
+
 Thus the SR FlipFlop is verified in Quartus Successfully.
